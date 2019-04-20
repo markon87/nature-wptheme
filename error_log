@@ -1,0 +1,8 @@
+[12-Oct-2017 07:20:45 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mnovakov/public_html/wordpress/wp-content/themes/nature/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mnovakov/public_html/wordpress/wp-content/themes/nature/index.php on line 1
+[24-Mar-2018 00:15:28 Europe/Belgrade] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mnovakov/public_html/wordpress/wp-content/themes/nature/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mnovakov/public_html/wordpress/wp-content/themes/nature/index.php on line 1
